@@ -3,10 +3,22 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
+    <!-- Bs -->
+    <link rel="stylesheet" href="https://cdn.rtlcss.com/bootstrap/v4.0.0/css/bootstrap.min.css" integrity="sha384-P4uhUIGk/q1gaD/NdgkBIl3a6QywJjlsFJFk7SPRdruoGddvRVSwv5qFnvZ73cpz" crossorigin="anonymous">
     <link rel="stylesheet" href="/assets/css/styles.css">
   </head>
   <body>
-    {% include navigation.html %}
-    {{ content }}
+    <div class="container">
+      <br>
+      <h1 class="text-center c-head">موقع غير رسمي لبرنامج التأصيل العقدي</h1>
+      {% include navigation.html %}
+      <br><br><br>
+      {{ content }}
+    </div>
+    <footer class="text-center">
+      للإتصال بنا : <a href="mailto:aqeedadz@gmail.com">aqeedadz@gmail.com</a>
+      الرجاء مساعدتنا بأي نصيحة ، إقتراح ، تصحيح ، معلومات إضافية أو أي شيء آخر
+
+    </footer>
   </body>
 </html>
