@@ -20,7 +20,7 @@ title:  تفريغات الدروس
 
 هذا أقتراح منا فقط و هو قابل لتغير 
 
-##  المادة الألوهية
+##  مادة الألوهية
 
 الدرس الأول:
 
@@ -29,7 +29,7 @@ title:  تفريغات الدروس
 [فتح المقاطع الصوتية](https://drive.google.com/drive/folders/1ShjwnLcwtj7vmLU9zgpOPbWGW7Tvjnlg?usp=sharing)
 
 
-##  المادة الأسماء والصفات
+##  مادة الأسماء والصفات
 
 الدرس الأول:
 
@@ -38,7 +38,7 @@ title:  تفريغات الدروس
 [فتح المقاطع الصوتية](https://drive.google.com/drive/folders/1uRmK6ynzID4IjufjD0pJlFJUb01mNbHp?usp=sharing)
 
 
-##  المادة المقدمات والربوبية
+##  مادة المقدمات والربوبية
 
 الدرس الأول:
 
@@ -46,10 +46,13 @@ title:  تفريغات الدروس
 
 [فتح المقاطع الصوتية](https://drive.google.com/drive/folders/1v9HiKb76H0Rjf2xhXZBVS3EzUqrOv5JK?usp=sharing)
 
-## المادة الملائكة والكتب والرسل
+## مادة الملائكة والكتب والرسل
 
 الدرس الأول:
 
 [فتح المستند](https://docs.google.com/document/d/1cQPGbNiT2Eyh9xwpG8jmIaU0p4EFt3rNicJ41Cp64Dk/edit?usp=sharing)
 
 [فتح المقاطع الصوتية](https://drive.google.com/drive/folders/1nhAhpqrRm5f5Y5bk99x5TaT9XULzQnW7?usp=sharing)
+<br>
+<br>
+<br>
