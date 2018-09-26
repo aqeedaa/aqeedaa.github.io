@@ -2,6 +2,14 @@ collections:
   authors:
     output: true
 
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: true
+  startings: [head, body]
+
+
 defaults:
   - scope:
       path: ""
